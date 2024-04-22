@@ -17,11 +17,11 @@ Code Canvas is a user-friendly coding platform designed to help developers learn
 
 ### Installation
 
-No installation is required. Simply visit [Code Canvas]() to start coding!
+No installation is required. Simply visit [Code Canvas](https://code-canvas-seven.vercel.app/) to start coding!
 
 ## Usage
 
-1. Navigate to [Code Canvas]().
+1. Navigate to [Code Canvas](https://code-canvas-seven.vercel.app/).
 2. Sign up for an account or continue as a guest.
 3. Choose a coding environment (HTML, CSS, JavaScript).
 4. Start coding! Write your code in the editor and see the results in real-time.
